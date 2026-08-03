@@ -22,7 +22,9 @@ This project is a Power BI dashboard built to analyze healthcare data including 
 - Hospital performance analysis
 
 ## 📸 Dashboard Preview
-![Dashboard](Healthcare_dashboard.png)
+<p align="center">
+  <img src="Healthcare_dashboard.png" width="700">
+</p>
 
 ## 🔄 Data Cleaning Steps
 - Removed null values
